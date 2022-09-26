@@ -1,5 +1,25 @@
 *{
-    position: relative;
-    flex: auto;
+    background-color: lightslategray;
     text-align: center;
+}
+h1{
+    text-align: center;
+    background-color: black;
+    color: ghostwhite;
+}
+div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+a{
+    font-size: 28px;
+}
+img{
+     border: 1px solid #fff;
+     width:400px;
+     height:400px;
+    margin: 10px;
+  
 }
